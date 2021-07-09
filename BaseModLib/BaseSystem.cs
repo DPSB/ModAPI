@@ -263,7 +263,7 @@ namespace ModAPI
                                     m.Position = 0;
                                     var fileBytes = m.ToArray();
                                     var newTexture = new Texture2D(1, 1);
-                                    newTexture.LoadImage(fileBytes);
+                                    newTexture.LoadRawTextureData(fileBytes);
                                     Resources.Add(ToLoad[CurrentMod], entry.FileName.ToLower(), newTexture);
                                 }
                             }

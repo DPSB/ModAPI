@@ -5,7 +5,7 @@
   If you change any value in here the ModAPI may not work anymore.
   I do not give support for modified configurations.
   -->
-  <Game>TheForest</Game>
+  <Game>SheWillPunishThem</Game>
   <UseSteam>false</UseSteam>
   <Paths>
     <Languages>resources/langs/</Languages>

@@ -345,7 +345,7 @@ namespace ModAPI.Data.Models
                               "    <AppDesignerFolder>Properties</AppDesignerFolder>\r\n" +
                               "    <RootNamespace>" + Id + "</RootNamespace>\r\n" +
                               "    <AssemblyName>" + Id + "</AssemblyName>\r\n" +
-                              "    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>\r\n" +
+                              "    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>\r\n" +
                               "    <FileAlignment>512</FileAlignment>\r\n" +
                               "    <TargetFrameworkProfile />\r\n" +
                               "  </PropertyGroup>\r\n" +
