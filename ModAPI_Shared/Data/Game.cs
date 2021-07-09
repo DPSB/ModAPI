@@ -38,8 +38,7 @@ namespace ModAPI.Data
     {
         public static readonly string[] VersionUpdateDomains =
         {
-            //"http://modapi.cc/app/configs/games/{0}/Versions.xml", Outdated URL
-            "http://modapi.survivetheforest.net/app/configs/games/{0}/Versions.xml"
+            "https://raw.githubusercontent.com/blargorjan/ModAPI/main/ModAPI/configs/games/{0}/Versions.xml"
         };
 
         public event EventHandler<EventArgs> OnModlibUpdate;
